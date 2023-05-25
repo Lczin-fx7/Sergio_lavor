@@ -1,0 +1,16 @@
+body{
+    background: rgb(131,58,180);
+background: linear-gradient(90deg, rgba(131,58,180,1) 0%, rgba(253,29,29,1) 50%, rgba(131,58,180,1) 100%);
+text-align: center;
+}
+.formulario{
+    text-align: center;
+    width: 290px;
+    background-color: black;
+    color: rgba(253,29,29,1);
+
+     position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%,-130%);
+}
